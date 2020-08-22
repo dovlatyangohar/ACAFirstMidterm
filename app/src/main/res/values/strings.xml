@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="add_product">Add product</string>
+    <string name="total_price">Total Price</string>
+    <string name="product_name">Product name</string>
+    <string name="product_price">Product price</string>
+    <string name="save">save</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+</resources>
